@@ -1,5 +1,5 @@
 import streamlit as st
-from sklearn import pickle
+import pickle
 
 model = pickle.load(open('spam.pkl','rb'))
 cv = pickle.load(open('vectorizer.pkl','rb'))
