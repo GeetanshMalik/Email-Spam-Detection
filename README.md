@@ -15,7 +15,6 @@ The final model achieves **100% accuracy** on the test dataset, and the Streamli
 - [Streamlit Deployment](#streamlit-deployment)
 - [Model Evaluation](#model-evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
